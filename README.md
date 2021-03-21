@@ -7,7 +7,9 @@
 
   - You can download Deno [here](https://deno.land)
 2. Running the checker
-  - Run `deno run -A main.js <wordlist>` in your terminal
+
+  - Run `deno run --allow-read --allow-net --unstable main.js <wordlist> <interval>` in your terminal
+  - Run `deno run -A --unstable main.js <wordlist> <interval>` in your terminal as an alternative
 
 ### Contributions
 ###### All contributions are accepted, simply open an Issue / Pull request.
