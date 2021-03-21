@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=connuh&repo=tiktok&cache_seconds=86400&theme=default">
+</p>
+
 # TikTok - a username checker. ⚡
 ### Username Checker for [TikTok.com](https://tiktok.com) written in [Deno](https://deno.land)!
 ---
